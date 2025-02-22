@@ -2,7 +2,7 @@
 
 ### 🚀 Gen AI Specialist | 💻 Open Source Creator | 🌟 Top 0.05% Developer on GitHub
 
-I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot) - an open-source AI native IDE.
+I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot-ai) - an open-source AI native IDE.
 
 ## 🎯 What I'm up to
 - 🤖 Building next-gen AI tools and frameworks
