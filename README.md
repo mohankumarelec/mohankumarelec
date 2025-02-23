@@ -16,9 +16,6 @@ I'm passionate about building innovative solutions at the intersection of AI and
 - Cloud Native Solutions (AWS, GCP, Cloudflare)
 - Big Data Analytics (Hadoop, Spark)
 
-## 🔍 Currently Looking For
-Exciting full-time opportunities where I can tackle challenging problems and make meaningful impact in the Generative AI/Tech space. Let's build something amazing together!
-
 ### 📫 Reach me at:
 - 📧 mail@mohanram.dev
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohrama)
