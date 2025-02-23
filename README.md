@@ -1,6 +1,6 @@
 # Hi there, I'm Mohanram! 👋
 
-### 🚀 Gen AI Specialist | 💻 Open Source Creator | 🌟 Top 0.05% Developer on GitHub
+### 🚀 Gen AI Specialist | 💻 Open Source Creator | 🌟 Full Stack Engineer
 
 I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot-ai) - an open-source AI native IDE.
 
