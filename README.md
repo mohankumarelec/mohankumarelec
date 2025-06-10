@@ -16,7 +16,7 @@ I'm passionate about building innovative solutions at the intersection of AI and
 - Cloud Native Solutions (AWS, GCP, Cloudflare)
 - Big Data Analytics (Hadoop, Spark)
 
-## 🎮 Take a Trip Down Memory Lane!
+## ✨ Check This Out
 Visit [mohanram.dev](https://mohanram.dev) - My portfolio site where Windows XP lives on! 🖥️✨
 
 Being a 90s kid, I built this nostalgic playground complete with:
