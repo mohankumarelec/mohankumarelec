@@ -2,7 +2,7 @@
 
 ### 🚀 Gen AI Specialist &nbsp; | &nbsp; 💻 Open Source Contributor &nbsp; | &nbsp; 🌟 Full Stack Engineer &nbsp; | &nbsp; ✍️ Tech Blogger
 
-I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot-ai) - an open-source AI native IDE.
+I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot-ai) - an open-source AI native IDE and [Forever Python](https://foreverpython.com) - an interactive Python learning platform.
 
 ### 🐍 Creator of Forever Python
 [**foreverpython.com**](https://foreverpython.com/) – my latest project where Python learning meets **interactivity**!
