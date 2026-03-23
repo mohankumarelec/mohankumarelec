@@ -4,15 +4,6 @@
 
 I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot-ai) - an open-source AI native IDE and [Forever Python](https://foreverpython.com) - an interactive Python learning platform.
 
-### 🐍 Creator of Forever Python
-[**foreverpython.com**](https://foreverpython.com/) – my latest project where Python learning meets **interactivity**!
-
-- 📝 **Fresh Python blogs** with hands-on code examples  
-- 🚀 **Interactive playground** (powered by JupyterLite!) – run and tinker with every code sample, right in your browser! [Try it here!](https://playground.foreverpython.com)
-- 🤩 No installs, no fuss – just pure Python fun for all levels!
-
-*Explore, experiment, and fall in love with Python, forever!* 💚
-
 ### 💻 Creator of Flexpilot AI
 [**flexpilot.ai**](https://github.com/flexpilot-ai) – An open-source, free, **AI-native**, privacy-first IDE, forked from VS Code.
 
