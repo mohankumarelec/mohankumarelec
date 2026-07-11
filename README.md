@@ -4,7 +4,8 @@
 
 I'm passionate about building innovative solutions at the intersection of AI and software engineering. Creator of [Flexpilot.ai](https://github.com/flexpilot-ai) - an open-source AI native IDE and [Forever Python](https://foreverpython.com) - an interactive Python learning platform.
 
-📄 **[Résumé](https://github.com/mohankumarelec/resume)** — LaTeX source & CI-built PDF.
+> **🟢 Open to Work** — Zero-to-one engineer who ships end-to-end: idea → architecture → production.
+> Built an IDE, a learning platform, and infra from scratch. If your team needs someone to own everything, let's talk → [mail@mohanram.dev](mailto:mail@mohanram.dev) · [LinkedIn](https://www.linkedin.com/in/mohrama) · 📄 [Résumé](https://github.com/mohankumarelec/resume)
 
 ### 💻 Creator of Flexpilot AI
 [**flexpilot.ai**](https://github.com/flexpilot-ai) – An open-source, free, **AI-native**, privacy-first IDE, forked from VS Code.
